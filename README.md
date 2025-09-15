@@ -1,32 +1,33 @@
-# Data Science & Analytics Internship – Future Interns
+# FUTURE_DS_01 - Business Sales Dashboard
 
-Welcome to my GitHub repository for the **Data Science & Analytics Internship** at **Future Interns**!
+## 📊 Task 1: Business Sales Dashboard from E-commerce Data
 
-This repository contains:
-- Exploratory Data Analysis (EDA) notebooks
-- Data preprocessing and cleaning scripts
-- Machine learning models (regression, classification, etc.)
-- Visualizations to uncover patterns and trends
-- Reports and documentation for each assignment
+### 🔹 Task
+Analyze e-commerce data to identify best-selling products, sales trends, and high-revenue categories using Power BI.
 
-## About the Internship
-This internship is helping me build practical experience in data analysis, Python programming, and machine learning. I’m working on real-world datasets to solve problems and develop actionable insights.
+### Introduction
 
-## Tools & Technologies
-- Python (pandas, numpy, scikit-learn, matplotlib, seaborn)
-- Jupyter notebooks
-- Git & GitHub for version control
-- Data visualization and statistical analysis
+This repository documents the completion of Task 1 for the Future Interns Data Science & Analytics Internship. The goal of this project was to analyze a given e-commerce dataset to identify key business insights, including best-selling products, sales trends, and high-revenue categories. The final deliverable is an interactive dashboard created to support business decisions.
 
-## Goals
-✅ Learn data manipulation and preprocessing  
-✅ Implement machine learning algorithms  
-✅ Build insightful visualizations  
-✅ Share knowledge and progress on LinkedIn  
-✅ Collaborate with other interns and improve problem-solving skills
 
----
+### 🔹 Skills Gained
+- Data cleaning  
+- DAX  
+- Trend analysis  
+- Business storytelling  
 
-Feel free to explore my code, and I’m open to feedback or suggestions!
+### 🔹 Deliverable
+An interactive Power BI dashboard with visuals and insights for business decisions.
 
-Let's learn and grow together!
+### 🔹 Tools Used
+- Power BI  
+
+### 📸 Dashboard Preview
+![Dashboard Screenshot](dashboard.png)
+
+### 🔗 Full Details
+You can view complete task details here:  
+[Business Sales Dashboard – Future Interns](https://futureinterns.com/data-science-analytics-task-1/)
+
+# FUTURE_DS_01
+As part of my Data Science &amp; Analytics Internship (FUTURE_DS_01) with Future Interns, I completed Task 1: Business Sales Dashboard using Power BI. It involved analyzing   e-commerce data to identify best-selling products, revenue trends, and high-performing categories,   enhancing my skills in data cleaning, DAX and Visualization.
