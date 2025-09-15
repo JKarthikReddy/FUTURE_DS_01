@@ -23,7 +23,7 @@ An interactive Power BI dashboard with visuals and insights for business decisio
 - Power BI  
 
 ### 📸 Dashboard Preview
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](Screenshot 2025-09-14 151349.png)
 
 ### 🔗 Full Details
 You can view complete task details here:  
